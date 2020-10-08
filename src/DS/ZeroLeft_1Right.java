@@ -1,6 +1,6 @@
 package DS;
 
-public class ZeroLeft1Right {
+public class ZeroLeft_1Right {
 	// Java code to segregate 0 and 1
 
 	static void segregate0and1(int arr[]) {

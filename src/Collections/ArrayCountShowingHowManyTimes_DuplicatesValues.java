@@ -3,7 +3,7 @@ package Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ArrayCountShowingHowManyTimes {
+public class ArrayCountShowingHowManyTimes_DuplicatesValues {
 	static void countFreq(int arr[], int n) 
     { 
        Map<Integer, Integer> mp = new HashMap<>(); 

@@ -24,7 +24,7 @@ public class Pubmatic {
 				// Print character and its count 
 				
 				System.out.print(count); 
-				System.out.print(str.charAt(i)); 
+				System.out.println(str.charAt(i)); 
 			} 
 			
 		} 

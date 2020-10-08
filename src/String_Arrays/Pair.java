@@ -8,7 +8,7 @@ public class Pair {
 	public static void main(String args[]) {
 		int arr[] = { 2, 3, 5, 4, 7 };
 		// int arr[] = { 3, 1, 2, 5, 4 };
-		int k = 3;
+		int k = 2;
 
 		if (printPairs(arr, arr.length, k) == false)
 			System.out.println("No such pair exists");
