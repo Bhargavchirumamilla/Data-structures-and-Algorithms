@@ -14,9 +14,9 @@ public class SortAnotherWay {
 	}
 }
 	
-	//Another Way
+	/*//Another Way
 	
-	/*//Initialize array     
+	//Initialize array     
     int [] arr = new int [] {5, 2, 8, 7, 1};     
     int temp = 0;    
         
@@ -45,6 +45,6 @@ public class SortAnotherWay {
         System.out.print(arr[i] + " ");    
     }    
 }    
-} */   
+}    */
 
 

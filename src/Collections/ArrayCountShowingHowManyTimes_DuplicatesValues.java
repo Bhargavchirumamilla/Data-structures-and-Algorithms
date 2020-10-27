@@ -24,7 +24,7 @@ public class ArrayCountShowingHowManyTimes_DuplicatesValues {
         // Traverse through map and print frequencies 
         for (Map.Entry<Integer, Integer> entry : mp.entrySet()) 
         { 
-            System.out.println("Duplicate element is " +entry.getKey() + " And Value is:"+ entry.getValue()); 
+            System.out.println("Duplicate element is " +entry.getKey() + " And Frequency Value is:"+ entry.getValue()); 
         } 
     } 
   

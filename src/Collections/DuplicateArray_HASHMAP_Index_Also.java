@@ -24,7 +24,7 @@ public class DuplicateArray_HASHMAP_Index_Also {
 		new DuplicateArray_HASHMAP_Index_Also().hasDuplicatesUsingMap(array);
 		System.out.println("-----------");
 		
-		//new DuplicateArray_HASHMAP_Index_Also().index();
+		new DuplicateArray_HASHMAP_Index_Also().index();
 
 	}
 
