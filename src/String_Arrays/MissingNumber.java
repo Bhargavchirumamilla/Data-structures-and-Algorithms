@@ -6,14 +6,14 @@ public class MissingNumber {
 
 		// Given input Array from 1 to n
 		// Integer[] input = {6,1,3,3,1,6,8};
-		Integer[] input = { 16, 1, 3, 3, 1, 18 };
+		Integer[] input = { 16, 1, 3, 3, 1, 18,99,200 };
 		// Calculate the max value in given Array
 		int max = calculateArrayMaxValue(input);
 
 		// Create another Array of same size
 		// By default all values initialize to 0
 		// default value of int
-		int[] copyArray = new int[100];
+		int[] copyArray = new int[1000];
 
 		// Iterate thorugh the input array
 		// Mark all present numbers in copyArray
@@ -22,7 +22,7 @@ public class MissingNumber {
 		}
 
 		// Print the missing numbers
-		System.out.print("Missing numbers in an array are : ");
+		System.out.println("Missing numbers in an array are : " );
 
 		for (int i = 1; i <= max; i++) {
 			if (copyArray[i] == 0)
