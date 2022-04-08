@@ -15,6 +15,7 @@ public class PairinanArraysum_2 {
 		List<Integer> Numbers = Arrays.asList(numbers);
 
 		Collections.sort(Numbers);
+		System.out.println("After sort" + Numbers);
 
 		for (int i : Numbers) {
 			if (Numbers.contains(sum - i) && i <= (sum / 2) && i != (sum - i)) {
