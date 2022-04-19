@@ -3,13 +3,13 @@ package Examples;
 
 import java.util.Arrays;
 
-public class Java {
+public class NextNumberJava {
 	// 32561
 	// 32615
 
 	public static void main(String[] args) {
-		char digits[] = { '3', '2', '5', '6', '1' };
-		//char digits[] = { '5', '3', '4', '9', '7', '6' };
+		//char digits[] = { '3', '2', '5', '6', '1' };
+		char digits[] = { '5', '3', '4', '9', '7', '6' };
 		//char digits[] = { '1', '2', '3', '4', '5', '6' };
 		int n = digits.length;
 		FindNext(digits, n);

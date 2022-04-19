@@ -2,7 +2,7 @@ package String_Arrays;
 
 import java.util.regex.Pattern;
 
-public class StringContainsLetters {
+public class PatternStringContainsLetters {
 
 	public static void main(String[] args) {
 
@@ -15,7 +15,7 @@ public class StringContainsLetters {
 
 		
 
-		// Another Logic 3
+		// Another Logic 2
 
 		if (Pattern.matches("[a-zA-Z]+", s)) {
 
