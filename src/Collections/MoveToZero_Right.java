@@ -1,6 +1,6 @@
 package Collections;
 
-public class MoveToZero {
+public class MoveToZero_Right {
 
 	
 	static void moveZerosToEnd(int arr[], int n) {
