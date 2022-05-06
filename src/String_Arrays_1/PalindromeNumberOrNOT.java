@@ -1,6 +1,6 @@
 package String_Arrays_1;
 
-public class palindromeNumberOrNOT {
+public class PalindromeNumberOrNOT {
 
 	public static void main(String[] args) {
 		int r, sum = 0, temp;

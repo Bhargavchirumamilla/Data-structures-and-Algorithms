@@ -3,7 +3,7 @@ package String_Arrays_1;
 import java.util.Arrays;
 import java.util.LinkedHashSet;
 
-public class removeDuplicateArrayLinkedList {
+public class RemoveDuplicateArrayLinkedList {
 
 	public static void removeDuplicates(int[] a) {
 		LinkedHashSet<Integer> set = new LinkedHashSet<Integer>();

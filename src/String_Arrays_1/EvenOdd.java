@@ -1,6 +1,6 @@
 package String_Arrays_1;
 
-public class evenOdd {
+public class EvenOdd {
 
 	public static void main(String[] args) {
 

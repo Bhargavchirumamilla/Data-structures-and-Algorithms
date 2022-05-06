@@ -2,7 +2,7 @@ package String_Arrays_1;
 
 import java.util.Arrays;
 
-public class removeDuplicateArray {
+public class RemoveDuplicateArray {
 	
 	//Complexity is more
 		public static int removeDuplicates(int a[], int n)

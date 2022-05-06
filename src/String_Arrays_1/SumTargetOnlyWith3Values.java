@@ -2,7 +2,7 @@ package String_Arrays_1;
 
 import java.util.HashSet;
 
-public class sumTargetOnlyWith3Values {
+public class SumTargetOnlyWith3Values {
 
 	// returns true if there is triplet
 	// with sum equal to 'sum' present
