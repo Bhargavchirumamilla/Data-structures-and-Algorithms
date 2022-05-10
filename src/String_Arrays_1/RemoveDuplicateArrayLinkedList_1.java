@@ -1,76 +1,34 @@
 package String_Arrays_1;
 
 import java.util.Arrays;
-import java.util.HashSet;
+import java.util.LinkedHashSet;
 
 public class RemoveDuplicateArrayLinkedList_1 {
 
-	static class node {
-		int val;
-		node next;
+	public static void removeDuplicates(int[] a) {
+		LinkedHashSet<Integer> set = new LinkedHashSet<Integer>();
 
-		public node(int val) {
-			this.val = val;
-		}
+		// Adding elements to LinkedHashSet
+		for (int i = 0; i < a.length; i++)
+			set.add(a[i]);
 
-		static void remove(node head) {
-
-			HashSet<Integer> hs = new HashSet<>();
-
-			node current = head;
-			node prev = null;
-
-			while (current != null) {
-				int curval = current.val;
-
-				if (hs.contains(curval)) {
-					prev.next = current.next;
-				} else {
-					hs.add(curval);
-					prev = current;
-				}
-
-				current = current.next;
-
-			}
-
-		}
-
-		static void printList(node head) {
-			while (head != null) {
-				System.out.print(head.val + " ");
-				head = head.next;
-			}
-		}
-
-		// Remove duplicates from this LinkedList 10 12 11 11 12 11 10
-		public static void main(String[] args) {
-
-			node start = new node(10);
-			start.next = new node(12);
-			start.next.next = new node(11);
-			start.next.next.next = new node(11);
-			start.next.next.next.next = new node(12);
-			start.next.next.next.next.next = new node(11);
-			start.next.next.next.next.next.next = new node(10);
-
-			System.out.print("Before dup value is :");
-
-			printList(start);
-
-			remove(start);
-
-			System.out.print("\nAfter dup values is : ");
-
-			printList(start);
-
-			int[] arr = {10,12,11};
-			Arrays.sort(arr);
-
-			for (int i = 0; i < arr.length; i++) {
-				System.out.print("\nsorted array is: " + arr[i]);
-			}
-
-		}
+		// Print the elements of LinkedHashSet
+		System.out.print("Removed Duplicate Array" + set);
 	}
+
+	// Driver code
+	public static void main(String[] args) {
+		// Remove duplicates from this LinkedList 10 12 11 11 12 11 10
+		int a[] = { 10, 12, 11, 11, 12, 11, 10};
+
+		// Sort and convert to string
+		System.out.println("Before array is before sort " + Arrays.toString(a));
+		Arrays.sort(a);
+		System.out.println("Modified array is after sort " + Arrays.toString(a));
+
+		// Remove Duplicate Values
+		removeDuplicates(a);
+
+	}
+
 }
