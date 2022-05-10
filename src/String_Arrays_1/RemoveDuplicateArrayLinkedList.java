@@ -18,8 +18,8 @@ public class RemoveDuplicateArrayLinkedList {
 
 	// Driver code
 	public static void main(String[] args) {
-
-		int a[] = { 1, 2, 4, 1, 2, 3, 3, 4, 4, 4, 5, 5, 6, 1, 2 };
+		// Remove duplicates from this LinkedList 10 12 11 11 12 11 10
+		int a[] = { 10, 12, 11, 11, 12, 11, 10};
 
 		// Sort and convert to string
 		System.out.println("Before array is before sort " + Arrays.toString(a));
