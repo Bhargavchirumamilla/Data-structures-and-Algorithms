@@ -1,26 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea66a57c-4d4b-4dfb-b825-1985768b485f" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="ea66a57c-4d4b-4dfb-b825-1985768b485f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/OverRid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Overriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Collections/FootBallTeamDesign.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Collections/FootBallTeamDesign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Collections/MoveToZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DS/ZeroLeft_1Right.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Examples/Java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/String_Arrays/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/String_Arrays/MissingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/String_Arrays/Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/String_Arrays/Pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/NextNumberJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/NextNumberJava.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="40" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="768" />
+  </component>
+  <component name="ProjectId" id="36LWlukRcCplImRmowOcpeOYxWT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -32,27 +62,26 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.stackUsingLinkedList">
-    <configuration name="binaryTreePostOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DS.binaryTreePostOrder" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bhargav/Downloads/DS/Data-structures-and-Algorithms&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.DS.BalancedParan (3)">
+    <configuration name="BinaryInsertion_Sort_WithInorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-1.8.0_472/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DS.BinaryInsertion_Sort_WithInorder" />
       <module name="Online" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +93,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stackUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DS.stackUsingLinkedList" />
+    <configuration name="DS.BalancedParan (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-25.0.1-1/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DS.BalancedParan" />
+      <module name="Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DS.BalancedParan (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DS.BalancedParan" />
+      <module name="Online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DS.BalancedParan (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DS.BalancedParan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DS.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DS.BalancedParan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DS.BalancedParan" />
       <module name="Online" />
       <extension name="coverage">
         <pattern>
@@ -79,11 +152,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.stackUsingLinkedList" />
-        <item itemvalue="Application.binaryTreePostOrder" />
+        <item itemvalue="Application.BinaryInsertion_Sort_WithInorder" />
+        <item itemvalue="Application.DS.BalancedParan (3)" />
+        <item itemvalue="Application.DS.BalancedParan (2)" />
+        <item itemvalue="Application.DS.BalancedParan (1)" />
+        <item itemvalue="Application.DS.BalancedParan" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -142,7 +219,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Data_structures_and_Algorithms$DS_BalancedParan__1_.ic" NAME="DS.BalancedParan (1) Coverage Results" MODIFIED="1764786923128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>DS.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Online$stackUsingLinkedList.ic" NAME="stackUsingLinkedList Coverage Results" MODIFIED="1594575437380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>DS.*</FILTER>
     </SUITE>
