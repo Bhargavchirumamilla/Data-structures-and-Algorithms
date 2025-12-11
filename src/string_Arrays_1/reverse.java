@@ -1,6 +1,6 @@
 package string_Arrays_1;
 
-public class h {
+public class reverse {
 	
 	public static String rev (String s) {
 		

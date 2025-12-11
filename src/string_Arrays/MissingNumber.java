@@ -6,7 +6,7 @@ public class MissingNumber {
 
 		// Given input Array from 1 to n
 		// Integer[] input = {6,1,3,3,1,6,8};
-		Integer[] input = { 16, 1, 3, 3, 1, 18,99,200 };
+		Integer[] input = { 16, 1, 3, 3, 1, 18, 18};
 		// Calculate the max value in given Array
 		int max = calculateArrayMaxValue(input);
 

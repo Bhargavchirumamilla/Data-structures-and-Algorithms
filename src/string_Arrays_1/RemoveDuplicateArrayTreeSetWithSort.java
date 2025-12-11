@@ -1,12 +1,10 @@
 package string_Arrays_1;
+import java.util.TreeSet;
 
-import java.util.Arrays;
-import java.util.LinkedHashSet;
-
-public class RemoveDuplicateArrayLinkedList_1 {
+public class RemoveDuplicateArrayTreeSetWithSort {
 
 	public static void removeDuplicates(int[] a) {
-		LinkedHashSet<Integer> set = new LinkedHashSet<Integer>();
+		TreeSet<Integer> set = new TreeSet<Integer>();
 
 		// Adding elements to LinkedHashSet
 		for (int i = 0; i < a.length; i++)
@@ -22,9 +20,7 @@ public class RemoveDuplicateArrayLinkedList_1 {
 		int a[] = { 10, 12, 11, 11, 12, 11, 10};
 
 		// Sort and convert to string
-		System.out.println("Before array is before sort " + Arrays.toString(a));
-		Arrays.sort(a);
-		System.out.println("Modified array is after sort " + Arrays.toString(a));
+	
 
 		// Remove Duplicate Values
 		removeDuplicates(a);

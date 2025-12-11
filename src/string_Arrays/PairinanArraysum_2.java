@@ -20,7 +20,7 @@ public class PairinanArraysum_2 {
 		for (int i : Numbers) {
 			if (Numbers.contains(sum - i) && i <= (sum / 2) && i != (sum - i)) {
 				System.out.print((sum - i) + " & ");
-				System.out.println(+i + " : is a pair");
+				System.out.println(+i + " : is a sum of pair ");
 
 			}
 

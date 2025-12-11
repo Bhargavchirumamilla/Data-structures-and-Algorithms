@@ -6,7 +6,7 @@ public class LargeElementParticularElement {
 
 	public static void main(String[] args) {
 
-		int n = 2;
+		int n = 1;
 
 		int arr[] = { 1, 10, 3, 7, 9, 100 };
 

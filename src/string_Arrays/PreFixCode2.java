@@ -44,7 +44,7 @@ public class PreFixCode2 {
 		String ans = commonPrefix(arr, n);
 
 		if (ans.length() > 0) {
-			System.out.printf("The longest common prefix is - %s", ans);
+			System.out.printf("The longest common prefix is  ", ans);
 		} else {
 			System.out.printf("There is no common prefix");
 		}

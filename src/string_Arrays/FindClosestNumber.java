@@ -49,8 +49,8 @@ public class FindClosestNumber {
 
 	// Binary search should be Sorted array
 	public static void main(String[] args) {
-		int arr[] = { 2, 5, 6, 7, 8, 8, 9 };
-		int target = 4;
+		int arr[] = { 2,4, 5, 6, 8, 8, 9 };
+		int target = 3;
 		System.out.print(findClosest(arr, target));
 
 	}

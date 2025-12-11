@@ -4,12 +4,14 @@ public class StringMutableImmutable {
 	
 	public static void main(String[] args) {
 		String s = "Hello";
-		s = s + " World"; 
+		String s1 =" Bobb";
+		s = s + " World" + s1; 
 		System.out.println(s);
 		
 		
 		StringBuffer sb = new StringBuffer("Hello");
 		sb.append(" World");
+		sb.append(" IND");
 		System.out.println("String Buffer is : " + sb);
 
 	}

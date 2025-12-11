@@ -49,7 +49,7 @@ public class PrintLongestSubstring {
 
 	// Driver Code
 	public static void main(String[] args) {
-		String str = "abcabcbdbbe";
+		String str = "abcdabcbdbbe";
 		System.out.print(findLongestSubstring(str));
 	}
 }
